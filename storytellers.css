@@ -1,0 +1,96 @@
+body {
+    font-family: 'raleway';
+}
+.weekly-meetings {
+  background-image: url('images/storycircle.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center -100px;
+  padding: 20%;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+  height: 400px;
+}
+
+.weekly-meetings h1 {
+  color: #f3f3f3;
+  z-index: 1;
+  position: absolute;
+  left: 40%;
+  background-color: rgba(32, 36, 32, 0.5)
+}
+
+.meeting-description {
+  position: absolute;
+  top: 500px;
+  text-align: center;
+  left: 15%;
+
+}
+
+.find-meeting {
+  position: absolute;
+  top: 650px;
+  left: 23%;
+}
+
+.find-meeting a {
+color: rgba(156,68,215,1);
+
+}
+
+.meeting-description a {
+color: rgba(156,68,215,1);
+
+}
+
+.story-showcase {
+  background-image: url('picsofme/frockshoppanorama.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center -100px;
+  padding: 20%;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+  height: 400px;
+}
+
+.story-showcase h1 {
+  color: #f3f3f3;
+  z-index: 1;
+  position: absolute;
+  left: 40%;
+  background-color: rgba(32, 36, 32, 0.5)
+}
+
+#go-back {
+  position: absolute;
+  left: 30%;
+}
+
+.press {
+  position: absolute;
+  top: 180px;
+/*  left: 10%;*/
+}
+
+.press img {
+  width: 300px;
+  height: 300px;
+}
+
+/*.press p {
+  text-align: center;
+}*/
+
+.heading {
+  position: absolute;
+  top: 60px;
+  left: 28%;
+}
