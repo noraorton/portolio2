@@ -22,13 +22,27 @@
 <link rel="stylesheet" style="text/css" href="style.css">
 <link rel="stylesheet" style="text/css" href="navbar.css">
 <link rel="stylesheet" style="text/css" href="normalize.css">
+<link rel="stylesheet" style="text/css" href="storytellers.css">
 
 
   </head>
 
   <body>
-      <h1>Story Showcases</h1>
+   <div class="weekly-meetings">
+     <h1>weekly meetings</h1>
+
+   </div>
+
+   <div class="meeting-description">
+     <h4>Charlotte Storytellers meets every Monday at 7:30 at <a href="http://industrycharlotte.com/" target = "_blank">Industry Coworking</a> at the NC Music Factory. <br> We warm up with vocal exercises, physical movements, and storytelling games. <br> The lion's share of the meeting is spent workshopping stories on that week's theme. <br> Members receive critique on content, tone and performance. </h4>
+   </div>
+
+<div class="find-meeting">
+  <h4>If you're interested in coming to our meetings, find us on <a href="https://www.facebook.com/groups/charlottestorytellers/" target = "_blank">Facebook</a> or <a href="http://www.meetup.com/Charlotte-Storytellers-Weekly-Meetup/" target = "_blank">Meetup</a>.</h4>
+</div>
+
+    <!--   <h1>Story Showcases</h1>
       <h2>Every four months, Charlotte Storytellers puts on a show. It's like this and this many people came.</h2>
-    <img src="images/showsocialmedia.jpg" alt="">
+    <img src="images/showsocialmedia.jpg" alt=""> -->
 
   </body>

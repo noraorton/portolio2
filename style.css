@@ -179,12 +179,12 @@ a, a:visited, a:hover, a:active {
 
 .education h4 {
   position: absolute;
-   background-color: rgba(32, 36, 32, 0.5);
+   background-color: rgba(32, 36, 32, 0.7);
     text-align: center;
     padding: 5% 10%;
     width: 350px;
     left: 35%;
-    top: 220px;
+    top: 160px;
 }
 
 /*#tts {
@@ -308,25 +308,8 @@ a, a:visited, a:hover, a:active {
 
 }
 
-/*.piecesfirstrow {
-  position: absolute;
-  top: 100px;
-}
-.piecessecondrow {
-  position: absolute;
-  top: 520px;
 
-}
 
-.piecesthirdrow {
-  position: relative;
-  top: 400px;
-}
-*/
-
-#goback {
-  color: blue;
-}
 footer {
   background-color: rgba(156,68,215,1);
   position: absolute;
