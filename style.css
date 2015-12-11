@@ -13,12 +13,13 @@
   position: absolute;
 /*  right: 182px;
   top: 610px;*/
-  left: 72%;
-  top: 85%;
+  left: 43%;
+  top: 80%;
   padding: 30px 60px 30px 61px;
   color: #f3f3f3;
 /*  background-color: rgb(32, 36, 32);*/
   font-weight: lighter;
+  color: inherit;
 }
 
 .navbar-right {
@@ -77,8 +78,7 @@ a, a:visited, a:hover, a:active {
 
 }
 
-@media (min-width: 768px) {
-  .profile
+
 }
 .profile {
   position: absolute;
@@ -140,7 +140,15 @@ a, a:visited, a:hover, a:active {
 .social {
   position: relative;
   top: 1250px;
-  left: 37%;
+  left: 40%;
+}
+
+.social img {
+  opacity: 1;
+}
+
+.social img:hover {
+  opacity: 0.7;
 }
 .education {
   background-image: url("picsofme/wilson.jpg");
@@ -163,7 +171,7 @@ a, a:visited, a:hover, a:active {
 .education h1 {
   position: absolute;
   padding: 2% 2%;
-/*  background-color: rgba(32, 36, 32, 0.5);*/
+/*  background-color: rgba(32, 36, 32, 0.7);*/
   top: 30px;
   left: 42%;
   opacity: 1;
@@ -226,9 +234,7 @@ a, a:visited, a:hover, a:active {
  
 }
 
-.writing h1 {
-  color: black;
-}
+
 .pieces {
   position: relative;
   top: 100px;
@@ -317,6 +323,10 @@ a, a:visited, a:hover, a:active {
   top: 400px;
 }
 */
+
+#goback {
+  color: blue;
+}
 footer {
   background-color: rgba(156,68,215,1);
   position: absolute;
